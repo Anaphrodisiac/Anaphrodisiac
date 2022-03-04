@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anaphrodisiac
+- 👋 Hi, I’m @Anaphrodisiac / Onur Yalçın
 - 👀 I’m interested in game developing and web site developing.
 - 🌱 I’m currently learning c# and javascript.
 - 💞️ I’m looking to collaborate on game developing.
