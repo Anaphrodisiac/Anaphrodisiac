@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Anaphrodisiac
+- 👀 I’m interested in game developing and web site developing.
+- 🌱 I’m currently learning c# and javascript.
+- 💞️ I’m looking to collaborate on ...game developing.
+- 📫 How to reach me mailto:yalcino512@gmail.com
